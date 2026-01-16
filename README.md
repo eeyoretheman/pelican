@@ -6,7 +6,7 @@ Scripts for generating slide rule scales for printing.
 
 A simple Mannheim rule
 
-![A ruler with various logarithmic scales](linear_scale.png)
+![A ruler with various logarithmic scales](mannheim.png)
 
 A to-scale 230mm metric ruler
 
